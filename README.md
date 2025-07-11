@@ -1,3 +1,3 @@
-Author is Shourya Goyal urf Pranbhakshii
+Author is Shourya Goyal
 <br>
-This was posted on github on 10th of July 2025
+This solves rubik's cube by analysing images/video of cubes.
